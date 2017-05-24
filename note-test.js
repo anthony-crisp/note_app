@@ -1,5 +1,7 @@
 function testText() {
-      var note = new Note();
-        assert.isTrue(note._text === "My favourite language is JavaScript");
+      var str = "My favourite language is JavaScript"
+      var note = new Note(str);
+        assert.isTrue(note.readNote() === str);
     }
+
 testText()
