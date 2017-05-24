@@ -3,9 +3,6 @@ Build a notes app as a frontend, single page web app.
 
 ## Notes app user stories
 
-![Notes app home page mockup](images/notes-home-page-mock-up.png)
-![Notes app note page mockup](images/notes-note-page-mock-up.png)
-
 ```
 As a programmer
 I can see a list of my notes, where each note is abbreviated to the first 20 characters
